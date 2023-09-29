@@ -1,5 +1,5 @@
 @media (max-width: 769px) {
-    maon::after {
+    main::after {
         background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
         width: 100vw;
     }
@@ -42,7 +42,7 @@
     }
 
     .conteudo .logo {
-        width: 17px;
+        width: 170px;
         height: 75px;
     }
 
