@@ -13,7 +13,7 @@ passo 2 - adicionar a classe "selecionado" no personagem que o usuário selecion
 passo 3 - verificar se já exista um personagem selecionado, se sim, devemos remover a seleção dele 
 */
 
-// 'use strict'
+'use strict'
 
 // const botao= document.getElementById('chopper') -->pega o elemento pelo id e apenas isso
 const botoes = document.querySelectorAll('.botao') //-->pega todos os elementos com a classe selecionada
